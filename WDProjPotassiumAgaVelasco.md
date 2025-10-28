@@ -40,12 +40,12 @@ We will incorporate Javascript into the minigames which would include math probl
 In a separate container on this page, we’ll put some fun facts to hook the player into the original series.  
 
 - About Us (1)  
-Get to know the developers!! <3  
+Get to know the developers, and the reason why we decided to make this website
 
 - References (1)  
-Copyrights and the authors: This contains the authors, pictures of the authors, references (pictures, websites, etc.), and the reason why we decided to make this website :)  
+Copyrights and the authors: This contains the authors, pictures of the authors, references (pictures, websites, etc.)
 
 
 [Current Design](https://www.canva.com/design/DAG23_B6BJc/JqxMmk6-bANji7Mp-_NhwA/edit?utm_content=DAG23_B6BJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
-Our favicon!!: ![favicon](blob:https://www.facebook.com/044c111f-99ef-4efc-bb54-90e278462b34)
+[Favicon](b72bc46f-1475-4efa-813e-2b518d0ba110.jpg)
