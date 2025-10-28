@@ -46,6 +46,6 @@ Get to know the developers!! <3
 Copyrights and the authors: This contains the authors, pictures of the authors, references (pictures, websites, etc.), and the reason why we decided to make this website :)  
 
 
-CURRENT DESIGN: PLS CLICK [HERE](https://www.canva.com/design/DAG23_B6BJc/JqxMmk6-bANji7Mp-_NhwA/edit?utm_content=DAG23_B6BJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+[Current Design](https://www.canva.com/design/DAG23_B6BJc/JqxMmk6-bANji7Mp-_NhwA/edit?utm_content=DAG23_B6BJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 Our favicon!!: ![favicon](blob:https://www.facebook.com/044c111f-99ef-4efc-bb54-90e278462b34)
