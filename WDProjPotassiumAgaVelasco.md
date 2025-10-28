@@ -8,6 +8,7 @@ This website is primarily a mystery roleplay game that uses existing characters 
 
 **Title: <u>Platypus Adventures</u>**  
 Why we chose this: The main character’s last name, Kamonohashi, translates to platypus. In addition, his love for platypuses is a running joke in the original series.    
+
 **Website Header: <u>Ron and Toto’s Detective Agency</u>**  
 Why we chose this: In the manga, the story ends with Ron finally being able to open his own agency. This was his original name for it, but Toto insisted on changing it to Ron Kamonohashi Detective Agency since he’d officially remain in the police force.
 
