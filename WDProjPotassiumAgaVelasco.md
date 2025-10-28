@@ -46,6 +46,4 @@ includes : getting to know the developers, and the reason why we decided to make
 includes : references and copyrights
 
 
-[Current Design](https://www.canva.com/design/DAG23_B6BJc/JqxMmk6-bANji7Mp-_NhwA/edit?utm_content=DAG23_B6BJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-
-[Favicon](b72bc46f-1475-4efa-813e-2b518d0ba110.jpg)
+[Current Design + Favicon](https://www.canva.com/design/DAG23_B6BJc/JqxMmk6-bANji7Mp-_NhwA/edit?utm_content=DAG23_B6BJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
