@@ -1,1 +1,73 @@
+ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 10px 20px;
+  background-color: #1a304e;
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  border-radius: 30px;
+  width: fit-content;
+}
 
+li a 
+{
+font-size: 25px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-family: garamond, serif;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 15px;
+  transition: background-color 0.3s;
+}
+
+li a:hover 
+{
+  background-color: rgb(255, 255, 255);
+  color:rgb(26, 48, 78)
+}
+
+html 
+{
+    background-image: url(https://static.wikia.nocookie.net/kamono-hashiguchi-no-kindan-suiri/images/f/f5/Ch1_Maison_du_Kamonohashi.png/revision/latest/scale-to-width-down/1000?cb=20210706224551);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position-y: -55px;
+    margin: 0;
+    padding: 0;
+}
+
+body::before 
+{
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: rgba(255, 255, 255, 0.37); /* overlay */
+    pointer-events: none;
+    z-index: -1; /* behind content */
+}
+
+.content {
+    text-align: left;
+    font-family: "Copperplate", "Copperplate Gothic Light";
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    margin: 75px;
+    margin-top: 90px;
+    background-color: rgba(26, 48, 78,0.75);
+    position: relative;
+    z-index: 1;
+    padding: 20px 20px 20px 20px;
+    border-radius: 15px;
+}
+
+
+.content h1 {
+    font-family: "Copperplate", "Copperplate Gothic Light";
+    color: #ffffff;                         
+}
