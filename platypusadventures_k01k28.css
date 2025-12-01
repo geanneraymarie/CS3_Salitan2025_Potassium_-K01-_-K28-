@@ -34,7 +34,7 @@ li a:hover
 
 html 
 {
-    background-image: url(https://static.wikia.nocookie.net/kamono-hashiguchi-no-kindan-suiri/images/f/f5/Ch1_Maison_du_Kamonohashi.png/revision/latest/scale-to-width-down/1000?cb=20210706224551);
+    background-image: url('https://static.wikia.nocookie.net/kamono-hashiguchi-no-kindan-suiri/images/f/f5/Ch1_Maison_du_Kamonohashi.png/revision/latest/scale-to-width-down/1000?cb=20210706224551');
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position-y: -55px;
@@ -47,9 +47,9 @@ body::before
     content: "";
     position: fixed;
     inset: 0;
-    background: rgba(255, 255, 255, 0.37); /* overlay */
+    background: rgba(255, 255, 255, 0.37);
     pointer-events: none;
-    z-index: -1; /* behind content */
+    z-index: -1;
 }
 
 .content {
