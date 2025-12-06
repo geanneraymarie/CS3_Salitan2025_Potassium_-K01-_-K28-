@@ -1,4 +1,5 @@
 function ourFunction() {
+    alert("Thnx for clicking me!");
      function problem1() {
         let outputHEH;
         
@@ -76,15 +77,17 @@ function ourFunction() {
           const cases2 = Math.floor((Math.random()*4) + 1);
           document.write("To get the password, get the answer of the following problem:");
           switch(cases2) {
+          }
      }
+
      function problem3() {
           let anotherOutput;
         
           const cases3 = Math.floor((Math.random()*4) + 1);
           document.write("To get the password, get the answer of the following problem:");
           switch(cases3) {
+          }
      }
-
      var textboxy;
      document.getElementById("button").innerHTML = outputHEH;
 }
@@ -100,6 +103,3 @@ rli.on('line', function (line) {
 var inputs = []
 
 rli.on('close', ourFunction)*/
-
-
-  
