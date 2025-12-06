@@ -6,12 +6,12 @@ function ourFunction() {
         document.write("To get the 4-digit pin, you must solve the following riddle:");
         switch(cases) {
             case 1:
-                let problem1 = prompt("What is the password?", "0000");
-                if (problem1 == null || problem1 == "") {
+                let problem11 = prompt("I am a 4-digit number. My thousands digit is twice the ones digit and hundereds digit. The tens digit is thrice the thousands but 6 times the ones and hundereds. What number am I?", "0000");
+                if (problem11 == null || problem11 == "") {
                     outputHEH = "Enter the fricking password!";
                 }
                 else {
-                    if(problem1 == "6242") {
+                    if(problem11 == "2161") {
                         outputHEH = "Correct! >>proceeds to program";
                     }
                     else {
@@ -22,12 +22,12 @@ function ourFunction() {
             break;
 
             case 2:
-                let problem2 = prompt("What is the password?", "0000");
-                if (problem2 == null || problem2 == "") {
+                let problem12 = prompt("The tens and ones digit of this number is the square of 4. Then, the hundreds digit is the value of log2 (8). Lastly, the thousands digit is useless. What number am I?", "0000");
+                if (problem12 == null || problem12 == "") {
                     outputHEH = "Enter the fricking password!";
                 }
                 else {
-                    if(problem2 == "0316") {
+                    if(problem12 == "0316") {
                         outputHEH = "Correct! >>proceeds to program";
                     }
                     else {
@@ -37,12 +37,12 @@ function ourFunction() {
             break;
 
             case 3:
-                let problem3 = prompt("What is the password?", "0000");
-                if (problem3 == null || problem3 == "") {
+                let problem13 = prompt("What is the password?", "0000");
+                if (problem13 == null || problem13 == "") {
                     outputHEH = "Enter the fricking password!";
                 }
                 else {
-                    if(problem3 == "4671") {
+                    if(problem13 == "4671") {
                         outputHEH = "Correct! >>proceeds to program";
                     }
                     else {
@@ -52,12 +52,12 @@ function ourFunction() {
             break;
             
             case 4:
-                let problem4 = prompt("What is the password?", "0000");
-                if (problem4 == null || problem4 == "") {
+                let problem14 = prompt("What is the password?", "0000");
+                if (problem14 == null || problem14 == "") {
                     outputHEH = "Enter the fricking password!";
                 }
                 else {
-                    if(problem4 == "7777") {
+                    if(problem14 == "7777") {
                         outputHEH = "Correct! >>proceeds to program";
                     }
                     else {
