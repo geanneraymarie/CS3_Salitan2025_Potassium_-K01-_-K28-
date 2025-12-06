@@ -2,9 +2,9 @@ function ourFunction() {
      function problem1() {
         let outputHEH;
         
-        const cases = Math.floor((Math.random()*4) + 1);
+        const cases1 = Math.floor((Math.random()*4) + 1);
         document.write("To get the 4-digit pin, you must solve the following riddle:");
-        switch(cases) {
+        switch(cases1) {
             case 1:
                 let problem11 = prompt("I am a 4-digit number. My thousands digit is twice the ones digit and hundereds digit. The tens digit is thrice the thousands but 6 times the ones and hundereds. What number am I?", "0000");
                 if (problem11 == null || problem11 == "") {
@@ -22,7 +22,7 @@ function ourFunction() {
             break;
 
             case 2:
-                let problem12 = prompt("The tens and ones digit of this number is the square of 4. Then, the hundreds digit is the value of log2 (8). Lastly, the thousands digit is useless. What number am I?", "0000");
+                let problem12 = prompt("The tens and ones digit of this is twice the rotated infinity symbol. Then, the hundreds digit is the value of log2 (8). Lastly, the thousands digit is useless. What number am I?", "0000");
                 if (problem12 == null || problem12 == "") {
                     outputHEH = "Enter the fricking password!";
                 }
@@ -37,7 +37,7 @@ function ourFunction() {
             break;
 
             case 3:
-                let problem13 = prompt("What is the password?", "0000");
+                let problem13 = prompt("My hundreds and tens digit is the word of the year, and the thousands is the number of legs a dog has. Finally, the ones digit represents the number of oxygen molecules in water.", "0000");
                 if (problem13 == null || problem13 == "") {
                     outputHEH = "Enter the fricking password!";
                 }
@@ -52,7 +52,7 @@ function ourFunction() {
             break;
             
             case 4:
-                let problem14 = prompt("What is the password?", "0000");
+                let problem14 = prompt("My thousands digit is the number of days in a week, and the hundreds digit is the result of 1-2+3+5. Next, my ones and tens digit is the atomic number of Iridium (Ir) What number am I?", "0000");
                 if (problem14 == null || problem14 == "") {
                     outputHEH = "Enter the fricking password!";
                 }
@@ -78,10 +78,18 @@ function ourFunction() {
 
      }
      function problem2() {
+          let anotherOutput;
         
+          const cases2 = Math.floor((Math.random()*4) + 1);
+          document.write("To get the password, get the answer of the following problem:");
+          switch(cases2) {
      }
      function problem3() {
-
+          let anotherOutput;
+        
+          const cases3 = Math.floor((Math.random()*4) + 1);
+          document.write("To get the password, get the answer of the following problem:");
+          switch(cases3) {
      }
 }
 
