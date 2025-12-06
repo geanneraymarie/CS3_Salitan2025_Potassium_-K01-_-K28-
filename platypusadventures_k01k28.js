@@ -67,13 +67,6 @@ function ourFunction() {
             break;
 
         }
-        //answers:
-        //6242
-        //0316
-        //4671
-        //7777
-        var textboxy;
-        document.getElementById("button").innerHTML = outputHEH;
 
 
      }
@@ -91,6 +84,9 @@ function ourFunction() {
           document.write("To get the password, get the answer of the following problem:");
           switch(cases3) {
      }
+
+     var textboxy;
+     document.getElementById("button").innerHTML = outputHEH;
 }
 
 
